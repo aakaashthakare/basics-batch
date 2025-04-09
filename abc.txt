@@ -1,2 +1,2 @@
 This is sample text of first commit
-This is change from other person branch
+Third change
